@@ -1,0 +1,46 @@
+name: Neon Contributions
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate neon contribution grid
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: akamohid
+          OUTPUT_PATH: dist/neon-contributions.svg
+        run: python generate.py
+
+      - name: Show status
+        run: git status
+
+      - name: Push SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update neon contribution grid"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
