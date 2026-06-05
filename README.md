@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Mohid!;A Data Science Senior!" />
+<img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=26&duration=1600&pause=350&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Mohid!;DS+Senior+@+NUST" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 &nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=akamohid&color=FF2D78&style=flat-square&label=views)
 
-<a href="https://akamohid.github.io" title="Portfolio · akamohid.github.io"><img src="https://cdn.simpleicons.org/githubpages/00E5FF" height="40" width="40" /></a> &nbsp;&nbsp; <a href="https://linkedin.com/in/akamohid" title="LinkedIn · in/akamohid"><img src="https://cdn.simpleicons.org/linkedin/00E5FF" height="40" width="40" /></a> &nbsp;&nbsp; <a href="https://github.com/akamohid" title="GitHub · akamohid"><img src="https://cdn.simpleicons.org/github/F0F0F0" height="40" width="40" /></a> &nbsp;&nbsp; <a href="https://instagram.com/akamohid" title="Instagram · @akamohid"><img src="https://cdn.simpleicons.org/instagram/FF2D78" height="40" width="40" /></a> &nbsp;&nbsp; <a href="mailto:akamohid@gmail.com" title="Gmail · akamohid@gmail.com"><img src="https://cdn.simpleicons.org/gmail/FF2D78" height="40" width="40" /></a>
+<a href="https://akamohid.github.io" title="Portfolio · akamohid.github.io"><img src="https://cdn.simpleicons.org/githubsponsors/FF2D78" height="40" width="40" /></a> &nbsp;&nbsp; <a href="https://linkedin.com/in/akamohid" title="LinkedIn · in/akamohid"><img src="./assets/linkedin.svg" height="40" width="40" /></a> &nbsp;&nbsp; <a href="https://github.com/akamohid" title="GitHub · akamohid"><img src="https://cdn.simpleicons.org/github/FF2D78" height="40" width="40" /></a> &nbsp;&nbsp; <a href="https://instagram.com/akamohid" title="Instagram · @akamohid"><img src="https://cdn.simpleicons.org/instagram/FF2D78" height="40" width="40" /></a> &nbsp;&nbsp; <a href="mailto:akamohid@gmail.com" title="Gmail · akamohid@gmail.com"><img src="https://cdn.simpleicons.org/gmail/FF2D78" height="40" width="40" /></a>
 
 </div>
 
@@ -27,7 +27,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3500&pause=1000&color=FF2D78&stroke=FF6B9D&strokeWidth=2&center=true&vCenter=true&width=200&height=28&lines=⚡++ABOUT" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=FF2D78&stroke=FF6B9D&strokeWidth=2&center=true&vCenter=true&width=200&height=28&lines=%E2%9A%A1++ABOUT" />
 
 <br/><br/>
 
@@ -38,9 +38,9 @@
 <br/>
 
 🎮 &nbsp;Hobbies &nbsp;&nbsp;
-![](https://img.shields.io/badge/Music-00E5FF?style=flat-square&labelColor=000a18)&nbsp;
-![](https://img.shields.io/badge/Movies-00E5FF?style=flat-square&labelColor=000a18)&nbsp;
-![](https://img.shields.io/badge/Gaming-00E5FF?style=flat-square&labelColor=000a18)
+![](https://img.shields.io/badge/Music-FF2D78?style=flat-square&labelColor=000a18)&nbsp;
+![](https://img.shields.io/badge/Movies-FF2D78?style=flat-square&labelColor=000a18)&nbsp;
+![](https://img.shields.io/badge/Gaming-FF2D78?style=flat-square&labelColor=000a18)
 
 <br/>
 
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3500&pause=1000&color=FF2D78&stroke=FF6B9D&strokeWidth=2&center=true&vCenter=true&width=300&height=28&lines=%F0%9F%A4%96++CONTRIBUTIONS" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3000&pause=1000&color=FF2D78&stroke=FF6B9D&strokeWidth=2&center=true&vCenter=true&width=300&height=28&lines=%F0%9F%A4%96++CONTRIBUTIONS" />
 
 <br/><br/>
 
