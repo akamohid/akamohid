@@ -84,6 +84,4 @@
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000a18,50:130025,100:06000f&height=120&section=footer&stroke=00E5FF&strokeWidth=1" width="100%" />
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000a18,50:130025,100:06000f&height=120&section=footer)
