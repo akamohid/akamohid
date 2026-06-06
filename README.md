@@ -16,16 +16,15 @@
 
 <a href="https://akamohid.github.io" title="Portfolio · akamohid.github.io"><img src="https://cdn.simpleicons.org/githubsponsors/FF2D78" height="40" width="40" /></a> &nbsp;&nbsp; <a href="https://linkedin.com/in/akamohid" title="LinkedIn · in/akamohid"><img src="./assets/linkedin.svg" height="40" width="40" /></a> &nbsp;&nbsp; <a href="https://github.com/akamohid" title="GitHub · akamohid"><img src="https://cdn.simpleicons.org/github/FF2D78" height="40" width="40" /></a> &nbsp;&nbsp; <a href="https://instagram.com/akamohid" title="Instagram · @akamohid"><img src="https://cdn.simpleicons.org/instagram/FF2D78" height="40" width="40" /></a> &nbsp;&nbsp; <a href="mailto:akamohid@gmail.com" title="Gmail · akamohid@gmail.com"><img src="https://cdn.simpleicons.org/gmail/FF2D78" height="40" width="40" /></a>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2" width="100%" />
+
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2" width="100%" />
-
-
 <div align="center">
-
-<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=1000&color=FF2D78&stroke=FF6B9D&strokeWidth=2&center=true&vCenter=true&width=200&height=28&lines=%E2%9A%A1++ABOUT" />
 
@@ -65,13 +64,11 @@
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,mysql,sqlite&theme=dark" height="42" />
 <img src="https://skillicons.dev/icons?i=cpp,java,js,dart,r,git,github,vscode,aws&theme=dark" height="42" />
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2" width="100%" />
+
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2" width="100%" />
-
-<br/>
 
 <br/>
 
