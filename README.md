@@ -30,7 +30,7 @@
 
 <br/><br/>
 
-🌱 &nbsp;Currently learning &nbsp;&nbsp;
+🌱 &nbsp;Learning &nbsp;&nbsp;
 ![](https://img.shields.io/badge/Advanced_CV-FF2D78?style=flat-square&labelColor=13002a)&nbsp;
 ![](https://img.shields.io/badge/LLM_Engineering-FF2D78?style=flat-square&labelColor=13002a)
 
