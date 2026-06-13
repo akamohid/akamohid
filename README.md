@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:06000f,50:130025,100:000a18&height=200&text=MOHID%20ARSHAD&fontColor=FFFFFF&fontSize=58&fontAlignY=55&animation=fadeIn&stroke=00E5FF&strokeWidth=2&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20SEECS%2C%20NUST&descColor=00E5FF&descSize=17&descAlignY=78" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:a00030,50:100025,100:000a18&height=220&text=MOHID%20ARSHAD&fontColor=FFF5EE&fontSize=66&fontAlignY=55&animation=fadeIn&stroke=FF0D58&strokeWidth=3.5" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=26&duration=1600&pause=350&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Mohid!;DS+Senior+@+NUST" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=27&duration=1600&pause=350&color=009FFF&center=true&vCenter=true&width=700&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Mohid!;Data+Scientist...;AI+Engineer!" />
 
 </div>
 
@@ -43,7 +43,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=1600&pause=350&color=00BFFF&center=true&vCenter=true&width=420&height=44&lines=Deep+Learning;Computer+Vision;Python;Data+Science;RAG+Pipelines" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=21&duration=1600&pause=350&color=009FFF&center=true&vCenter=true&width=420&height=44&lines=Deep+Learning;Computer+Vision;Python;Data+Science;RAG+Pipelines" />
 
 <br/>
 
@@ -85,4 +85,4 @@
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000a18,50:130025,100:06000f&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:a00030,50:100025,100:000a18&height=120&section=footer)
