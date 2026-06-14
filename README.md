@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a00030,50:100025,100:000a18&height=120&section=header" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:a00030,50:100025,100:000a18&height=220&text=MOHID%20ARSHAD&fontColor=FFF5EE&fontSize=66&fontAlignY=55&animation=fadeIn&stroke=FF0D58&strokeWidth=3.5" width="100%" />
 
@@ -43,10 +49,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=21&duration=1600&pause=350&color=009FFF&center=true&vCenter=true&width=420&height=44&lines=Deep+Learning;Computer+Vision;Python;Data+Science;RAG+Pipelines" />
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2" width="100%" />
 
 </div>
@@ -67,6 +69,10 @@
 <br/>
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=21&duration=1600&pause=350&color=009FFF&center=true&vCenter=true&width=420&height=44&lines=Deep+Learning;Computer+Vision;Python;Data+Science;RAG+Pipelines" />
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2" width="100%" />
 
 </div>
@@ -85,4 +91,6 @@
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:a00030,50:100025,100:000a18&height=120&section=footer)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a00030,50:100025,100:000a18&height=120&section=footer" width="100%" />
+</div>
