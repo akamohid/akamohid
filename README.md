@@ -2,11 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a00030,50:100025,100:000a18&height=120&section=header" width="100%" />
 </div>
 
-<br/>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:a00030,50:100025,100:000a18&height=220&text=MOHID%20ARSHAD&fontColor=FFF5EE&fontSize=66&fontAlignY=55&animation=fadeIn&stroke=FF0D58&strokeWidth=3.5" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:a00030,50:100025,100:000a18&height=220&text=Mohid%20Arshad&fontColor=FFF5EE&fontSize=66&fontAlignY=55&animation=fadeIn&stroke=FF0D58&strokeWidth=3.5" width="100%" />
 
 <br/>
 
